@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cp hash-chain-logging-system /usr/bin/hash-chain-logging-system
+echo 'hash-chain-logging-system installed.'
+

@@ -1,0 +1,6 @@
+#!/bin/sh
+
+python -m py_compile hash-chain-logging-system.py
+mv hash-chain-logging-system.pyc hash-chain-logging-system
+chmod +x hash-chain-logging-system
+echo 'hash-chain-logging-system compiled.'

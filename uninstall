@@ -1,0 +1,6 @@
+#!/bin/sh
+
+rm /usr/bin/hash-chain-logging-system
+echo 'hash-chain-logging-system removed.'
+
+
