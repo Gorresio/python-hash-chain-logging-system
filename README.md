@@ -130,5 +130,5 @@ The use of hash-chain-logging-system is at your own risk: read thelicense.
 
 Stefano Gorresio
 
-Email: stefano.gorresio@null.net
+Email: stefano.gorresio@gmail.com
 
