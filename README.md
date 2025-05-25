@@ -124,5 +124,5 @@ hash-chain-logging-system is a free software licensed by Simplified BSD License.
 
 Copy of Simplified BSD License license is present in ./LICENSE file
 
-The use of hash-chain-logging-system is at your own risk: read thelicense.
+The use of hash-chain-logging-system is at your own risk: read the license.
 
